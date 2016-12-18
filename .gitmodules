@@ -1,0 +1,3 @@
+[submodule "s3-locust/locust"]
+	path = s3-locust/locust
+	url = https://github.com/locustio/locust.git
